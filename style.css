@@ -1,0 +1,56 @@
+header {
+    background-color: #91ac2e8f;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(104, 178, 207); 
+}
+body {
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    background-color: #ffffff; 
+    padding: 20px; 
+}
+
+h1, h2, h3 {
+    color: #66ade8ce; /*  black */
+}
+
+h1 {
+    font-size: 24px; 
+}
+
+p {
+    margin-bottom: 20px; /* Example margin for paragraphs */
+}
+
+a {
+    color: #b2cae4; /* 007bff */
+    text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
+
+}
+
+
+.logo {
+                /* Rectangle 1 */
+    padding-bottom: 30px;
+    width: 200px;
+    height: 200px;
+    background: url(Ground-breaking.png);
+    
+}
+.name{
+    padding-top: 100px;
+}
+
+.video-img {
+    width: 500px;
+    height: auto;
+}
+.title {
+    font-size: 50px;
+}
